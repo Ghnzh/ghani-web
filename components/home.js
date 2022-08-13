@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div id="home" className="text-white bg-dasar font-ntr md:text-left text-center">
       <main className="min-h-screen md:pl-15% md:pt-5% text-abu">
-        <div className="hidden md:block pt-16">
+        <div className="pt-12 md:pt-16 pl-[27%] md:pl-0 pb-4 md:pb-0">
           <img src="/profil instagram.jpg" className="bg-ijo rounded-full w-28 ml-4" />
         </div>
         <span className="font-ntr text-46px md:text-86px ">

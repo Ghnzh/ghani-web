@@ -3,10 +3,10 @@ import Card from "./card-hobbies";
 export default function Hobbies() {
   return (
     <div id="hobbies" className="bg-dasar font-ntr">
-      <main className="min-h-screen md:pl-15% pt-80 md:pr-12 lg:pr-17% lg:pt-5% pb-5% text-abugelap">
+      <main className="min-h-screen md:pl-15% pt-72 md:pr-12 lg:pr-17% lg:pt-5% pb-5% text-abugelap">
         <div className="pb-42px flex">
           <span className="font-ntr text-32px lg:text-46px font-bold text-abu">/ hobbies</span>
-          <div className="lg:block hidden w-300px h-1px mt-39px ml-5 bg-abugaris" />
+          <div className="md:w-300px w-[170px] h-1px md:mt-39px mt-[24px] ml-5 bg-abugaris" />
         </div>
         <div className="project-container">
           <ul className="grid lg:grid-cols-3 md:grid-cols-2 lg:gap-2.5 gap-5">

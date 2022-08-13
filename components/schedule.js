@@ -1,12 +1,12 @@
 export default function Schedule() {
   return (
     <div className="bg-dasar font-ntr">
-      <main className="min-h-screen md:pl-15% lg:pt-5% pt-[350px] pb-5% lg:pb-5% text-abugelap">
+      <main className="min-h-screen md:pl-15% lg:pt-5% pt-[450px] pb-5% lg:pb-5% text-abugelap">
         <div id="schedule">
           <div className="fade-in-section is-visible">
             <div className="pb-42px flex">
               <span className="font-ntr text-32px lg:text-46px font-bold text-abu">/ schedule school</span>
-              <div className="lg:block hidden w-300px h-1px mt-39px ml-5 bg-abugaris" />
+              <div className="md:w-300px w-[80px] h-1px md:mt-39px mt-[24px] ml-5 bg-abugaris" />
             </div>
             <div className="jss1 lg:flex grow cursor-pointer">
               <div className="overflow-x-auto relative">

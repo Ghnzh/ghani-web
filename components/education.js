@@ -6,7 +6,7 @@ export default function Education() {
           <div className="fade-in-section is-visible">
             <div className="pb-42px flex">
               <span className="font-ntr text-32px lg:text-46px font-bold text-abu">/ education</span>
-              <div className="lg:block hidden w-300px h-1px mt-39px ml-5 bg-abugaris" />
+              <div className="md:w-300px w-[170px] h-1px md:mt-39px mt-[24px] ml-5 bg-abugaris" />
             </div>
             <div className="jss1 h-300px lg:flex grow">
               <div className="lg:border-r-1 border-solid border-navy flex-col flex overflow-hidden">

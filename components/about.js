@@ -1,28 +1,10 @@
-// import React, { useState, useEffect } from "react";
-// const handleScroll = () => {};
-// useEffect(() => {
-//   window.addEventListener("scroll", handleScroll);
-//   return () => window.removeEventListener("scroll", handleScroll);
-// });
-// const [scroll, setScroll] = useState(0);
-
-// function scrollAnimation(setScroll) {
-//   useEffect(() => {
-//     document.addEventListener("scroll", () => {
-//       const scrollCheck = window.scrollY < 100;
-//       if (scrollCheck !== scroll) {
-//         setScroll(scrollCheck);
-//       }
-//     });
-//   });
-// }
 export default function About() {
   return (
     <div id="about" className="text-white bg-dasar font-ntr">
       <main className="min-h-screen md:pl-15% md:pt-5% pt-25% md:pr-25% text-abu">
         <div className="pb-42px flex">
           <span className="font-ntr text-32px lg:text-46px font-bold">/ about me</span>
-          <div className="lg:block hidden w-300px h-1px mt-39px ml-5 bg-abugaris" />
+          <div className="md:w-300px w-[170px] h-1px md:mt-39px mt-[24px] ml-5 bg-abugaris" />
         </div>
         <div className="flex">
           <div className="text-abugelap m-0 text-20px max-w-700px">
