@@ -48,7 +48,7 @@ export default function Experience() {
                 <div className="px-6">
                   <p className="text-base m-0">
                     <span className="text-22px lg:text-28px font-bold text-abu capitalize">the champion of the </span>
-                    <span className="text-22px lg:text-28px text-ijo font-bold capitalize">futsal competition in the city of Pekanbaru</span>
+                    <span className="text-22px lg:text-28px text-ijo font-bold capitalize">futsal competition</span>
                     <div className="text-18px">NOV 2018</div>
                     <ul className="pt-24px max-w-600px text-20px mb-4">
                       <div className="flex before:content-['▹'] before:text-ijo before:absolute">
