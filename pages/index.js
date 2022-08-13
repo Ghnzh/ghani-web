@@ -12,7 +12,7 @@ export default function Main() {
   return (
     <html className="scroll-smooth bg-dasar">
       <Head>
-        <title>Ghani Azh</title>
+        <title>UI Developer - Ghani.Azh</title>
         <link rel="icon" href="/favicon.jpg" />
       </Head>
       <div className="md:p-0 md:pb-8 pt-10 pb-4 px-6 flex-col">
