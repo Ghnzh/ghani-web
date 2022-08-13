@@ -12,8 +12,8 @@ export default function Main() {
   return (
     <html className="scroll-smooth bg-dasar">
       <Head>
-        <title>UI Developer - Ghani.Azh</title>
-        <link rel="icon" href="/favicon.jpg" />
+        <title> UI Developer - Ghani.Azh</title>
+        <link rel="icon" href="/favicon.svg" />
       </Head>
       <div className="md:p-0 md:pb-8 pt-10 pb-4 px-6 flex-col">
         <div className="md:p-0 py-2.5 px-2.5 w-100">
