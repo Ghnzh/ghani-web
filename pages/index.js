@@ -13,7 +13,7 @@ export default function Main() {
     <html className="scroll-smooth bg-dasar">
       <Head>
         <title>Ghani Azh</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.jpg" />
       </Head>
       <div className="md:p-0 md:pb-8 pt-10 pb-4 px-6 flex-col">
         <div className="md:p-0 py-2.5 px-2.5 w-100">
