@@ -14,9 +14,9 @@ export default function Sidebar() {
         <div>
           <a href="#experience">/experience</a>
         </div>
-        <div>
+        {/* <div>
           <a href="#hobbies">/favorite-things</a>
-        </div>
+        </div> */}
       </div>
       <div className="flex space-x-1.5 items-right lg:pt-10 pb-2 lg:pl-14 justify-center items-center">
         <a href="https://www.instagram.com/ghnzh_/">
