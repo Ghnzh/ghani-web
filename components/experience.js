@@ -1,7 +1,7 @@
 export default function Experience() {
   return (
     <div className="bg-dasar font-ntr">
-      <main className="min-h-screen md:pl-15% lg:pt-5% pt-[100px] pb-5% text-abugelap">
+      <main className="min-h-screen md:pl-15% lg:pt-5% pt-30% pb-5% lg:pb-15% text-abugelap">
         <div id="experience">
           <div className="fade-in-section is-visible">
             <div className="pb-42px flex">
