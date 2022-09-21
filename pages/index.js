@@ -18,9 +18,7 @@ export default function Main() {
           <Home />
           <About />
           <Education />
-
           <Experience />
-
           <Footer />
         </div>
         <Sidebar />
