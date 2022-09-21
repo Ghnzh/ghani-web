@@ -1,6 +1,6 @@
 export default function Sidebar() {
   return (
-    <div className="lg:fixed bottom-10% right-0 lg:pr-5% lg:pt-0 pt-30px text-ijo font-bold text-right font-ntr">
+    <div className="lg:fixed bottom-10% right-0 lg:pr-5% text-ijo font-bold text-right font-ntr">
       <div className="hidden lg:block">
         <div>
           <a href="#home">/home</a>
